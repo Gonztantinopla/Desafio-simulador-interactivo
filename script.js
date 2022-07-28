@@ -1,8 +1,7 @@
-// debugger
 
 
 function calcular(){
-    debugger
+    // debugger
     let valor = parseFloat(prompt("ingresa el valor en 1 pago de su producto."))
     if (isNaN(valor)){
         alert("Debe elegir un valor numerico")
